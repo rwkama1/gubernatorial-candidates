@@ -1,0 +1,16 @@
+{
+  "name": "gubernatorial_candidates",
+  "version": "1.0.1",
+  "description": "Read the N votes cast to the 3 gubernatorial candidates and print the number of the winning candidate and their number of votes.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/gubernatorial-candidates"
+  },
+ 
+  "keywords": ["js","javascript","calculation","candidates","backend"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
